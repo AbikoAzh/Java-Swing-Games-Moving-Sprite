@@ -4,5 +4,4 @@ Java-Swing-Games-Moving-Sprite
 
 ### Visaualization
 
-![javaw_Yv7IaQHWTS-output](https://github.com/AbikoAzh/Java-Swing-Games-Moving-Sprite/assets/165510364/39b323d6-5283-46e3-8e69-47f1b8559463)
-
+![idea1](https://github.com/AbikoAzh/Java-Swing-Games-Moving-Sprite/assets/165510364/382a01d3-c9ac-48f5-a2b4-aecd2c9b791b)
