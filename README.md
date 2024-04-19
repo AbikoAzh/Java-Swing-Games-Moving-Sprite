@@ -1,4 +1,8 @@
 # Java-Swing-Games-Moving-Sprite
 Java-Swing-Games-Moving-Sprite
 
-![2024-04-19 16-12-08](https://github.com/AbikoAzh/Java-Swing-Games-Moving-Sprite/assets/165510364/bf171bbf-6b44-45d6-a8c7-b2c429facdf3)
+
+### Visaualization
+
+![javaw_Yv7IaQHWTS-output](https://github.com/AbikoAzh/Java-Swing-Games-Moving-Sprite/assets/165510364/39b323d6-5283-46e3-8e69-47f1b8559463)
+
