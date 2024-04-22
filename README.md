@@ -14,7 +14,7 @@ The concept of object-oriented programming was applied in programming and develo
 This project was built using [Java Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
 
 ### Motivation, Why did you build this project?
-<- For educational purposes and to hone programming skills and solve complex problems encountered at every stage of development.
+* For educational purposes and to hone programming skills and solve complex problems encountered at every stage of development.
 
 ### 🛠️ Languages and Tools:
 <div>
@@ -34,5 +34,3 @@ This project was built using [Java Swing](https://docs.oracle.com/javase/7/docs/
 <div align="center">
     سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
 </div>
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
