@@ -8,6 +8,7 @@ This application is part of a series on learning to develop games using Java, wh
 * Shooting Missile Class
 * Spaceship Class
 * Sprite Class
+
 The concept of object-oriented programming was applied in programming and developing this game.
 
 This project was built using [Java Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
