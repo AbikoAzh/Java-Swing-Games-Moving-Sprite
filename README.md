@@ -2,11 +2,12 @@
 ---
 ### 📝 Description: 
 This application is part of a series on learning to develop games using Java, where work was done on an attempt to develop an aircraft war game using the Java Swing libraries, where the programming part consists of five classes, which are:
-<- Board Class
-<- Missile Class
-<- Shooting Missile Class
-<- Spaceship Class
-<- Sprite Class
+
+* Board Class
+* Missile Class
+* Shooting Missile Class
+* Spaceship Class
+* Sprite Class
 The concept of object-oriented programming was applied in programming and developing this game.
 
 This project was built using [Java Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
